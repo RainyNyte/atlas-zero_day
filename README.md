@@ -1,0 +1,1 @@
+Repository made to practice using git for atlas school
