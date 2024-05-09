@@ -1,1 +1,1 @@
-Folder created to contain all work done for the project for atlas
+Folder containing work done for Atlas' git project
